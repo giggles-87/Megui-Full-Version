@@ -237,4 +237,4 @@ This repository serves as the official landing page for MeGUI. The software is d
 **Get the most recent version of MeGUI today!**
 
 ---
-**Last updated:** 2026-10-29 21:34:28 UTC
+**Last updated:** 2026-10-30 01:36:13 UTC
